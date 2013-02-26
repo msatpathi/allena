@@ -1,1 +1,4 @@
-sample 1
+another addtion of a line.
+
+
+this is something on the branch for feature4 to guarantee a collision.
